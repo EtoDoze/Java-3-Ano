@@ -12,7 +12,7 @@ public class Fat1a50 {
     public static void main(String[] args) {
         for(int i=0;i<=50;i++){
 
-            long num = i;
+            int num = i;
             double conta = 1;
 
             while (num >=1) {
@@ -23,3 +23,5 @@ public class Fat1a50 {
         }
     }
 }
+
+//this é uma refeerncia a esses atributos, this = esse, ela faz referencia a algum atributo de uma classe, cada classe deve ser escrita dentro de um arquivo
