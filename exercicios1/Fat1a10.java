@@ -6,7 +6,7 @@ public class Fat1a10 {
         for(int i=0;i<=10;i++){
 
             int num = i;
-            float conta = 1;
+            int conta = 1;
 
             while (num >=1) {
                 conta = conta * num;
