@@ -5,10 +5,12 @@
 //só pode herdar de 1 superclasse
 // final é uma classe constante, const
 // 
+package Heranca;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Cachorro meuCachorro = new Cachorro("Bolt", "Labrador");
         Gato meuGato = new Gato("Whiskers");
     }
 }
+
